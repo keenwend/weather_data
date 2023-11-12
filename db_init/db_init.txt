@@ -1,0 +1,1 @@
+docker run -d --name weather_db -p 5432:5432 --env-file /Users/alex/mydev/weather_to_yd/db_init/.env postgres:14

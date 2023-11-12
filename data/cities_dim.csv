@@ -1,0 +1,18 @@
+id|name|state|country|coord
+472045|Voronezh||RU|{'lon': 39.169998, 'lat': 51.666389}
+491422|Sochi||RU|{'lon': 39.730278, 'lat': 43.599998}
+498677|Saratov||RU|{'lon': 46.033333, 'lat': 51.566666}
+498817|Saint Petersburg||RU|{'lon': 30.264168, 'lat': 59.894444}
+501175|Rostov-na-Donu||RU|{'lon': 39.71389, 'lat': 47.236389}
+520555|Nizhniy Novgorod||RU|{'lon': 44.002048, 'lat': 56.328674}
+524894|Moscow||RU|{'lon': 37.606667, 'lat': 55.761665}
+542420|Krasnodar||RU|{'lon': 38.976944, 'lat': 45.03278}
+551487|Kazan||RU|{'lon': 49.122139, 'lat': 55.788738}
+554234|Kaliningrad||RU|{'lon': 20.51095, 'lat': 54.70649}
+578072|Belgorod||RU|{'lon': 36.580002, 'lat': 50.610001}
+1486209|Yekaterinburg||RU|{'lon': 60.612499, 'lat': 56.857498}
+1496747|Novosibirsk||RU|{'lon': 82.934441, 'lat': 55.041111}
+2013348|Vladivostok||RU|{'lon': 131.873535, 'lat': 43.105621}
+2022890|Khabarovsk||RU|{'lon': 135.092773, 'lat': 48.480831}
+2119441|Yuzhno-Sakhalinsk||RU|{'lon': 142.733658, 'lat': 46.958118}
+2122104|Petropavlovsk-Kamchatsky||RU|{'lon': 158.6483, 'lat': 53.0452}
